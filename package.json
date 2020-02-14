@@ -203,6 +203,7 @@
     "find-and-replace": "0.219.1",
     "fuzzy-finder": "1.14.1",
     "github": "0.33.0",
+    "dugite": "1.88.2",
     "git-diff": "file:./packages/git-diff",
     "go-to-line": "file:./packages/go-to-line",
     "grammar-selector": "file:./packages/grammar-selector",
